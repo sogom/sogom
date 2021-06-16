@@ -6,6 +6,7 @@
 ### 🔭Languages
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=Go&logoColor=white)
 </br>
 ###  📫 Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yjw5615@gmail.com)](mailto:yjw5615@gmail.com)
