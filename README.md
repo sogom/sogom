@@ -1,8 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsogom&count_bg=%230B79B0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </br>
+<!--
 ### GitHub Stats 🎈
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sogom)](https://github.com/anuraghazra/github-readme-stats)
-</br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sogom)](https://github.com/anuraghazra/github-readme-stats) -->
 ### 🔭Languages
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white)
